@@ -63,6 +63,9 @@ Interactive dashboard available in Tableau:
 
 🔗 https://public.tableau.com/app/profile/victoria.diago/viz/Eficienciadeoperadores-CallMeMaybe/Dashboard1?publish=yes  
 
+<img width="1384" height="667" alt="Callme Maybe Tableu" src="https://github.com/user-attachments/assets/5b16ee8a-f680-46c7-aa68-7105128ee6d5" />
+
+
 ---
 
 ## Conclusion
@@ -78,13 +81,14 @@ The analysis shows that operator efficiency is primarily driven by outbound call
 
 ---
 
+## 💼 Business Problem
+
+Call centers often struggle to identify inefficient operators, leading to poor service quality and increased operational costs.
+
+---
 ## Next Steps
 
 - Include service quality metrics  
 - Segment analysis by customer type  
 - Develop predictive performance models
 
----
-## 💼 Business Problem
-
-Call centers often struggle to identify inefficient operators, leading to poor service quality and increased operational costs.
