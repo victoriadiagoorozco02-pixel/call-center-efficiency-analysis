@@ -1,7 +1,7 @@
 # Call Center Performance Analysis - CallMeMaybe
 
 ## Project Description
-Identifying inefficiencies in call center operations to improve service quality and reduce operational costs through data analysis.
+Identifying inefficiencies in call center operations to improve service quality and reduce operational costs through data analysis
 
 The analysis combines exploratory data analysis, statistical testing, and dashboard visualization to generate actionable insights that enhance service performance.
 
